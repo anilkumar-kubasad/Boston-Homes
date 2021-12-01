@@ -1,0 +1,2 @@
+# Boston-Homes
+A real estate company wants to build homes at different locations in Boston. They have data for historical prices but have not decided the actual prices yet. They want to fix such a price for the homes that are affordable to the general public. In this project I have used the data available in sklearn library and built a multiple linear regression model to predict the prices of the houses.
